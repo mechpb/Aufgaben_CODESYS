@@ -3,6 +3,7 @@ Das Buch enthält 56 Aufgaben zur Steuerungstechnik, die zum Teil mit CODESYS ge
 
 Beachten Sie bitte, dass bei den grafischen Programmiersprachen und bei der Formatierung von Text die Bildschirmgröße Einfluss besitzt. U. U. ist es erforderlich, die Funktionsbausteine neu zu positionieren. Bei den Aufgaben zur Ablaufsprache nach DIN EN 61131-3 muss die Bibliothek vorher geladen werden, s. Seite 112 und Seite 185 ff.
 
+Dateien aus dem dazugehörigen Lehrbuch unter  https://github.com/mechpb/Lehrbuch_Steuerungstechnik_CODESYS 
 
 Aufgabensammlung zur Steuerungstechnik 
 --------------------------------------
